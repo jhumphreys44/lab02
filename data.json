@@ -1,0 +1,12 @@
+{
+  "weeklyHours": {
+    "Classes": 8,
+    "Studying": 12,
+    "Sleep": 56,
+    "Clubs": 3,
+    "Gym": 5,
+    "Social": 10,
+    "Job Search": 3,
+    "Other": 71
+  }
+}
